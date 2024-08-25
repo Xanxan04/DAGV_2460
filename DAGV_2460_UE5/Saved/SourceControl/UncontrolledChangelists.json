@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Blueprints/ActorComponents/AC_CharacterStats.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Enumerations/E_DamageHealing.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Blueprints/BP_HealthActor.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Materials/M_Red.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Materials/M_Blue.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Materials/M_Green.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XL/87SYC7LV2D3WG81T04H8L9.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Blueprints/BP_Countdown.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JY/AXHOX3KXWVTJV0CGRH6QQO.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TS/8EKAFZ65KX4A5FPUMZY09F.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Widgets/BPI_CharacterStats.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Widgets/BPI_GUI.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
