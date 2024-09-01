@@ -10,7 +10,6 @@
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Blueprints/BP_HealthActor.uasset",
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Materials/M_Red.uasset",
-				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Materials/M_Blue.uasset",
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Materials/M_Green.uasset",
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XL/87SYC7LV2D3WG81T04H8L9.uasset",
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Blueprints/BP_Countdown.uasset",
@@ -18,6 +17,13 @@
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TS/8EKAFZ65KX4A5FPUMZY09F.uasset",
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Widgets/BPI_CharacterStats.uasset",
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Widgets/BPI_GUI.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Blueprints/BP_DamageTickActor.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XQ/JFB661IB6SEZ0NRIYZRENB.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Blueprints/Blueprints/BP_LookAtActor.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B6/4PGX0VX63PMS1TE8E0VMXQ.uasset",
+				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/Materials/M_Blue.uasset",
 				"D:/GitRepo/DAGV_2460/DAGV_2460/DAGV_2460/DAGV_2460_UE5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
